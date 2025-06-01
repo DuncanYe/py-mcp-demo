@@ -20,7 +20,7 @@
 
 ## 🛠️ 安裝
 
-### 1. 克隆專案
+### 1. Clone 專案
 
 ```bash
 git clone https://github.com/你的用戶名/py-mcp-demo.git
@@ -39,7 +39,7 @@ source .venv/bin/activate  # macOS/Linux
 ### 3. 安裝相依套件
 
 ```bash
-pip install mcp[cli]
+pip install "mcp[cli]"
 ```
 
 ## 🚀 使用方法
@@ -101,3 +101,11 @@ py-mcp-demo/
 ├── README.md        # 專案說明文件
 └── .venv/           # 虛擬環境 (本地)
 ```
+
+## 🔗 相關連結
+
+- [MCP 是什麼？可以吃嗎？](https://www.youtube.com/watch?v=cdBRAVYZKFo)
+- [MCP python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+
+
+
